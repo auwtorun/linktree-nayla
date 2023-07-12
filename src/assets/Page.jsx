@@ -4,15 +4,15 @@ import Profile from './profile-icon.jpg'
 
 const Page = () => {
   const links = [
-    { title: 'Github', url: 'https://github.com/auwtorun' },
-    { title: 'Instagram', url: 'https://instagram.com/muhamaddptr' },
-    { title: 'Youtube', url: 'https://youtube.com/@muhamadptr/streams' },
-    { title: 'LinkedIn', url: 'https://linkedin.com/' },
-    { title: 'Spotify', url: 'https://open.spotify.com/user/8acs3cwxqfs1j6l7gtpaxrd98' },
+    { title: 'CV / Resume', url: 'https://drive.google.com/drive/u/8/folders/1SC3wqaaFJIhrsFsjthiDirOH-v8e5kcw' },
+    { title: 'Instagram', url: 'https://instagram.com/violandni' },
+    { title: 'Tiktok', url: 'https://tiktok.com/@ollaateee' },
+    { title: 'LinkedIn', url: 'https://linkedin.com/in/viola-andini-ferdian-putri-b26412282/?trk=public-profile-join-page' },
+    { title: 'Spotify', url: 'https://open.spotify.com/user/gudhnsf8kdrfiemdzu7rri65l' },
   ];
 
-  const name = 'Muhamad Putra';
-  const bio = 'Rookie Website Developer';
+  const name = 'Viola Andini';
+  const bio = 'Maba IPB Jurusan Kimia';
 
   return (
     <div className="main">

@@ -6,9 +6,8 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #FF9A8B;
-  background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);  
-  background-size: cover;
+  background-color: #d88c89;
+  background-image: linear-gradient(19deg, #d88c89 0%, #b9b1d6 100%);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -18,6 +17,7 @@
 
 .main {
   margin-top: 48px;
+  padding-bottom: 48px;
 }
 
 .page-container {
