@@ -12,7 +12,7 @@ const Page = () => {
   ];
 
   const name = 'Viola Andini';
-  const bio = 'Maba IPB Jurusan Kimia';
+  const bio = 'pipaplow';
 
   return (
     <div className="main">
