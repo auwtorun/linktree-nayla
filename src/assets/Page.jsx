@@ -4,15 +4,15 @@ import Profile from './profile-icon.jpg'
 
 const Page = () => {
   const links = [
-    { title: 'CV / Resume', url: 'https://drive.google.com/drive/u/8/folders/1SC3wqaaFJIhrsFsjthiDirOH-v8e5kcw' },
-    { title: 'Instagram', url: 'https://instagram.com/violandni' },
-    { title: 'Tiktok', url: 'https://tiktok.com/@ollaateee' },
-    { title: 'LinkedIn', url: 'https://linkedin.com/in/viola-andini-ferdian-putri-b26412282/?trk=public-profile-join-page' },
-    { title: 'Spotify', url: 'https://open.spotify.com/user/gudhnsf8kdrfiemdzu7rri65l' },
+    { title: 'Latest Project', url: '' },
+    { title: 'Instagram', url: 'https://www.instagram.com/naaylacahya/' },
+    { title: 'Tiktok', url: 'https://www.tiktok.com/@nelalaww?_t=8mv5MEyZG7j&_r=1' },
+    { title: 'LinkedIn', url: 'https://www.linkedin.com/in/nayla-cahya-61b060305/?originalSubdomain=id' },
+    { title: 'Spotify', url: 'https://open.spotify.com/user/o8w4osuans8i7cp366batbuc7' },
   ];
 
-  const name = 'Viola Andini';
-  const bio = 'pipaplow';
+  const name = 'Nayla Cahya Khairunnisa';
+  const bio = 'Psychology Student';
 
   return (
     <div className="main">
